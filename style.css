@@ -1,0 +1,75 @@
+
+
+
+
+body {
+    background-color: rgb(200, 240, 142);
+    font-size: 18px;
+ 
+    
+}
+
+
+h1, h2{
+  margin-top: 8px;
+ font-weight:normal;
+  
+}
+
+nav {
+  background-color: rgb(200, 240, 142);
+  display:flex;
+  justify-content:space-evenly;
+  
+}
+
+
+.imagegallery {
+  width:100%;
+  justify-content:space-between;
+}
+
+.imagegallery figure {
+  display:block;
+  margin:0;
+  width:30%;
+}
+
+.imagegallery img {
+  width:110%;
+  height:400px;
+  object-fit:cover;
+}
+
+
+
+header {
+  
+  font-size:4em;
+  padding-top:10vh;
+  color: rgb(100, 0, 0); 
+  text-align:center;
+  height:20vh;
+  background-image:url();
+  background-size:cover;
+  background-position:center;
+  background-image:url(https://cdn.glitch.me/9ddd29a0-cca5-4a00-95b0-18e8298c88c0%2F1c0b790b-5324-478b-9aa4-af1ca6b8f779.granny-smith-apple-background-royalty-free-image-478157670-1564142886.jpg?v=1633432595781);
+}
+
+section {
+    background-color: rgb(146, 211, 90);
+    padding: 10px;
+    margin: 70px auto;
+    font-size: 1em;
+  width: 75%;
+  
+  
+}
+
+footer {
+  background-color: rgb(146,211 , 90);
+ 
+  
+}
+
+
